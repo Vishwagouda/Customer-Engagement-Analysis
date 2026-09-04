@@ -2,6 +2,7 @@
 
 An end-to-end Data Science and Business Analytics project evaluating student onboarding efficiency, content consumption trends, and geographic growth for an online learning platform. 
 
+
 This project demonstrates pre-aggregated data extraction using **SQL** and multi-page interactive visualization in **Tableau Public**.
 
 🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/altaf.makashi/viz/CustomerEngagmentAnalysis/Page1-ExecutiveOverview_)
